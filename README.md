@@ -130,14 +130,6 @@ Key strengths:
 
 ---
 
-## GitHub Stats
-
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=1sandeepkhemani&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1sandeepkhemani&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Installation & Local Setup
 
 Clone the repository:
