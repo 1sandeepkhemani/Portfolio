@@ -1,0 +1,25 @@
+# Dependencies and local tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary screenshots generated during UI checks
+portfolio-*.png
+*-check.png
+projects-layout-check.png
+skills-check.png
+
+# Unused local personal image/CV experiments
+Image.png
+imageprofile.jpg
+photo.jpg
+SANDEEP CV.pdf
+Sandeep Khemani CV.pdf
+SANDEEPresume.pdf

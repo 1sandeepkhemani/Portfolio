@@ -1,0 +1,312 @@
+{
+  "personal": {
+    "name": "Sandeep Khemani",
+    "role": "ASP.NET Developer",
+    "location": "India",
+    "phone": "+91-7477065303",
+    "email": "sandeepkhemani134@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sandeep-khemani-6423bb195",
+    "github": "https://github.com/1sandeepkhemani",
+    "resume": "sandeep resume.pdf",
+    "taglines": [
+      "ASP.NET Developer building reliable ERP and CRM platforms",
+      "C# and SQL Server specialist for business-critical workflows",
+      "REST API and payment gateway integrator for enterprise systems",
+      "Developer focused on clean code, usability, and measurable impact"
+    ],
+    "summary": "ASP.NET Developer with hands-on experience designing and delivering CRM, ERP, and workforce management applications for education and operations teams. Skilled in C#, ASP.NET Web Forms, SQL Server, MySQL, RESTful APIs, ASMX web services, token-based authentication, and payment gateway integrations. Known for improving system usability, resolving critical production issues, and building scalable enterprise modules that support high-volume daily workflows.",
+    "highlights": [
+      "Developed and enhanced ERP modules across fee management, timetable, attendance, report cards, payroll, leave management, and support ticketing.",
+      "Migrated legacy ASMX web services to secure token-based REST APIs to improve maintainability, security, and inter-service communication.",
+      "Integrated and maintained GrayQuest, CCAvenue, and NTT Data payment gateways for secure and accurate transaction processing.",
+      "Created analytical reports and dashboards that improved operational visibility for school administrators, branch managers, and support teams."
+    ]
+  },
+  "metrics": [
+    {
+      "label": "Enterprise modules",
+      "value": 10,
+      "suffix": "+"
+    },
+    {
+      "label": "Payment gateways",
+      "value": 3,
+      "suffix": ""
+    },
+    {
+      "label": "Professional roles",
+      "value": 2,
+      "suffix": ""
+    },
+    {
+      "label": "Project case studies",
+      "value": 4,
+      "suffix": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "description": "Core implementation skills for enterprise web applications.",
+      "items": [
+        {
+          "name": "C#",
+          "level": 88
+        },
+        {
+          "name": "JavaScript",
+          "level": 78
+        },
+        {
+          "name": "HTML",
+          "level": 90
+        },
+        {
+          "name": "CSS",
+          "level": 86
+        },
+        {
+          "name": "Bootstrap",
+          "level": 82
+        }
+      ]
+    },
+    {
+      "category": "Frameworks and Tools",
+      "description": "Daily tools used across ASP.NET, API testing, and mobile-connected systems.",
+      "items": [
+        {
+          "name": "ASP.NET Web Forms",
+          "level": 88
+        },
+        {
+          "name": "Visual Studio",
+          "level": 86
+        },
+        {
+          "name": "Postman",
+          "level": 80
+        },
+        {
+          "name": "Git",
+          "level": 76
+        }
+      ]
+    },
+    {
+      "category": "Databases and Architecture",
+      "description": "Data modeling, secure integration, and enterprise workflow architecture.",
+      "items": [
+        {
+          "name": "SQL Server",
+          "level": 84
+        },
+        {
+          "name": "MySQL",
+          "level": 82
+        },
+        {
+          "name": "Microsoft Access",
+          "level": 68
+        },
+        {
+          "name": "RESTful Web APIs",
+          "level": 80
+        },
+        {
+          "name": "ASMX Web Services",
+          "level": 76
+        },
+        {
+          "name": "Token-Based Authentication",
+          "level": 78
+        }
+      ]
+    },
+    {
+      "category": "Business Systems",
+      "description": "Domain experience that helps translate business operations into usable software.",
+      "items": [
+        {
+          "name": "ERP Development",
+          "level": 86
+        },
+        {
+          "name": "CRM Systems",
+          "level": 80
+        },
+        {
+          "name": "Tally with GST",
+          "level": 72
+        },
+        {
+          "name": "Payment Gateway Integration",
+          "level": 78
+        },
+        {
+          "name": "Role-Based Access Control",
+          "level": 82
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "MR Softwares",
+      "location": "Ujjain, India",
+      "title": "ASP.NET Developer",
+      "period": "June 2025 - Present",
+      "summary": "Developing and enhancing ERP, employee management, and CRM modules used across education and workforce operations.",
+      "systems": [
+        {
+          "name": "eSchoolApp - ERP Solution",
+          "points": [
+            "Developed fee management modules, including a fee concession maker-checker workflow supporting Admin and Non-Admin roles.",
+            "Built and maintained Fee Management, Timetable, Attendance, and Report Card modules with usability-focused enhancements.",
+            "Resolved production issues across modules, improving application stability and reducing user-reported incidents.",
+            "Integrated GrayQuest, CCAvenue, and NTT Data payment gateways for secure and uninterrupted transaction processing.",
+            "Developed monthly analytical reports to support management visibility and decision-making."
+          ]
+        },
+        {
+          "name": "Shramdoot App - Employee Management System",
+          "points": [
+            "Engineered shift management, attendance tracking, payroll processing, leave management, and branch operations modules.",
+            "Migrated legacy ASMX web services to secure token-based REST APIs for stronger maintainability and service communication.",
+            "Implemented branch creation, shift assignment, salary tracking, and role-based access control features.",
+            "Built a consolidated Branch Details dashboard with employee counts, branch information, and operational metrics."
+          ]
+        },
+        {
+          "name": "CRM - Ticket Management System",
+          "points": [
+            "Developed ticket creation, assignment, and real-time status tracking workflows to improve support response efficiency."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Nehvij Technologies",
+      "location": "Indore, India",
+      "title": "Web Development Intern",
+      "period": "Jan 2025 - May 2025",
+      "summary": "Built ASP.NET web applications while gaining full-stack experience across front-end, back-end, and SQL Server data layers.",
+      "systems": [
+        {
+          "name": "ASP.NET Web Applications",
+          "points": [
+            "Built web application features using ASP.NET technologies across front-end and back-end layers.",
+            "Wrote optimized SQL queries for efficient data retrieval, storage, and manipulation.",
+            "Designed normalized SQL Server schemas to support reliable and scalable data management."
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Employee Feedback System",
+      "category": "Enterprise",
+      "status": "Featured",
+      "technologies": ["ASP.NET", "C#", "SQL Server", "QR Workflow", "Role-Based Login"],
+      "description": "Responsive employee feedback platform with Admin and Employee roles, QR code-based feedback collection, and dashboards for performance tracking.",
+      "features": [
+        "Role-based authentication for Admin and Employee users.",
+        "QR code-based feedback collection for structured performance reviews.",
+        "Interactive dashboard with real-time performance insights across devices."
+      ],
+      "impact": "Made feedback collection more structured, trackable, and accessible for employee performance review workflows.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Analytics dashboard on a laptop representing employee feedback reporting"
+      },
+      "links": {
+        "github": "https://github.com/1sandeepkhemani",
+        "live": "https://employeefeedbacksystem.bsite.net/"
+      }
+    },
+    {
+      "title": "The Refined News",
+      "category": "Content",
+      "status": "Case Study",
+      "technologies": ["ASP.NET", "C#", "SQL Server", "Authentication", "CMS"],
+      "description": "Full-featured news portal where authenticated users can publish, categorize, tag, and manage news articles with database-backed content workflows.",
+      "features": [
+        "Secure login and author-friendly publishing workflows.",
+        "Article categorization, tagging, storage, retrieval, and profile management.",
+        "Scalable content pipeline backed by SQL Server."
+      ],
+      "impact": "Demonstrates content management, database design, authentication, and admin workflows.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Newspapers representing a modern online news portal"
+      },
+      "links": {
+        "github": "https://github.com/1sandeepkhemani",
+        "live": "https://therefinednews.bsite.net/"
+      }
+    },
+    {
+      "title": "My Store Billing Application",
+      "category": "Business",
+      "status": "Desktop App",
+      "technologies": ["ASP.NET", "C#", "SQL Server", "Billing", "Retail Workflow"],
+      "description": "Desktop-based billing application for retail stores with invoice generation, product management, and transaction history tracking.",
+      "features": [
+        "Invoice generation and transaction history management.",
+        "Product management workflows for retail operations.",
+        "Operational UI improvements for faster billing and better accuracy."
+      ],
+      "impact": "Improves store billing accuracy and day-to-day retail workflow efficiency.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Retail checkout counter with point of sale payment system"
+      },
+      "links": {
+        "github": "https://github.com/1sandeepkhemani",
+        "live": null
+      }
+    },
+    {
+      "title": "E-Book Rental Platform",
+      "category": "Commerce",
+      "status": "Platform",
+      "technologies": ["ASP.NET", "C#", "SQL Server", "E-Commerce", "Digital Library"],
+      "description": "E-commerce-style platform for renting e-books with online reading, download capabilities, inventory management, and rental lifecycle tracking.",
+      "features": [
+        "E-book rental workflow with online reading and download access.",
+        "SQL-backed inventory, user, and rental lifecycle management.",
+        "Intuitive interface for improving digital content accessibility."
+      ],
+      "impact": "Shows ability to build user-facing commerce workflows with database-backed business rules.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Library shelves representing an e-book rental platform"
+      },
+      "links": {
+        "github": "https://github.com/1sandeepkhemani",
+        "live": null
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Shri Vaishnav Vidhyapeeth Vishwavidyalaya",
+      "location": "Indore, India",
+      "period": "July 2023 - June 2025"
+    },
+    {
+      "degree": "Bachelor of Commerce + Computer Application (B.Com + CA)",
+      "institution": "Rajiv Gandhi PG Government College",
+      "location": "Mandsaur, India",
+      "period": "April 2020 - March 2023"
+    },
+    {
+      "degree": "Diploma in Computer Application (DCA)",
+      "institution": "Makhanlal Chaturvedi National University",
+      "location": "India",
+      "period": "April 2020 - March 2021"
+    }
+  ]
+}

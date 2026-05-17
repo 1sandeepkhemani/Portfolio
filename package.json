@@ -1,0 +1,17 @@
+{
+  "name": "sandeep-khemani-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dynamic recruiter-focused developer portfolio for Sandeep Khemani.",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "keywords": [
+    "portfolio",
+    "aspnet",
+    "developer",
+    "resume"
+  ],
+  "author": "Sandeep Khemani",
+  "license": "UNLICENSED"
+}
