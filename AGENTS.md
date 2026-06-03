@@ -25,11 +25,11 @@ Portfolio/            ← GitHub Pages root
 No lint, typecheck, test, or build commands exist.
 
 ## Vercel deployment
-Add `vercel.json` at repo root:
+`vercel.json` at repo root:
 ```json
-{ "rootDirectory": "Portfolio", "buildCommand": null, "framework": null }
+{ "buildCommand": null, "framework": null }
 ```
-This tells Vercel to serve files from `Portfolio/` directly (static, no build step). Without it, Vercel looks at repo root, finds no `index.html`, and returns 404.
+**Do NOT set `rootDirectory`** — `index.html` is already at the repo root. That field caused the build failure.
 
 ## Key facts
 - **Content-driven**: all text, skills, projects, experience come from `data/portfolio.json`. Edit that file to update the portfolio.
